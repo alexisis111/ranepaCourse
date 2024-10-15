@@ -119,6 +119,7 @@ body {
 
 .main h1 {
   margin: 0;
+  padding-bottom: 20px;
   display: flex;
   justify-content: center;
   font-family: "Roboto", Arial, Helvetica, sans-serif;
@@ -276,7 +277,6 @@ body {
   text-decoration: none;
   cursor: pointer;
 }
-
 
 .modal_img {
   max-width: 100%;
